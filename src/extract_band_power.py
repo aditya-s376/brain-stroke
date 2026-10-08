@@ -3,6 +3,7 @@
 from pathlib import Path
 
 import numpy as np
+# pyrefly: ignore [missing-import]
 import mne
 
 from feature_extraction import BANDS, FEATURE_CHANNELS, condition_band_power

@@ -12,6 +12,8 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+src/__pycache__
+Notes&Limitations.txt
 
 # Raw and intermediate EEG data
 data/raw/
